@@ -117,7 +117,7 @@
   <div class="container">
     <div class="course-card">
       <div class="course-icon"><i class="fab fa-java"></i></div>
-      <div class="course-title">main project</div>
+      <div class="course-title">java project</div>
       <div class="course-desc">
         Master Core Java, Spring Boot, Microservices, Angular, React.
       </div>
