@@ -119,7 +119,7 @@
       <div class="course-icon"><i class="fab fa-java"></i></div>
       <div class="course-title">Java Full Stack Development</div>
       <div class="course-desc">
-        Master Core Java, Spring Boot, Microservices, Angular, React & more to become a job-ready full-stack developer.
+        Master Core Java, Spring Boot, Microservices, Angular, React.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
