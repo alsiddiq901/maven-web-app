@@ -17,7 +17,7 @@ pipeline {
         }
         stage('docker image'){
             steps {
-                sh 'docker build -t alsiddiq/mavenwebapp .'
+                sh 'docker build -t mavenwebapp .'
             }
         }
         stage('k8s deploy'){
